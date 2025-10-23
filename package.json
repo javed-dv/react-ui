@@ -1,0 +1,19 @@
+{
+  "name": "react-ui",
+  "version": "1.0.0",
+  "description": "react ui from scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javed-dv/react-ui.git"
+  },
+  "author": "Javed Akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javed-dv/react-ui/issues"
+  },
+  "homepage": "https://github.com/javed-dv/react-ui#readme"
+}
