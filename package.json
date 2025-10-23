@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javed-dv/react-ui.git"
+    "url": "https://github.com/javed-dv/react-ui.git"
   },
   "author": "Javed Akhtar",
   "license": "ISC",
