@@ -2,7 +2,6 @@
   "name": "react-ui",
   "version": "1.0.0",
   "description": "react ui from scratch",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/javed-dv/react-ui/issues"
   },
-  "homepage": "https://github.com/javed-dv/react-ui#readme"
+  "homepage": "https://github.com/javed-dv/react-ui#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
 }
